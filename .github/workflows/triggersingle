@@ -1,0 +1,11 @@
+name: Use Hello World action
+
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Print output
+      run: echo "Hello world triggersingle!"
