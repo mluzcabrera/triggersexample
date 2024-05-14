@@ -1,4 +1,4 @@
-name: Use Hello World action
+name: triggersingle
 
 on: workflow_dispatch
 
