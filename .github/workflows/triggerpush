@@ -8,4 +8,4 @@ jobs:
 
     steps:
     - name: Print output
-      run: echo "Hello world triggerpush!"
+      run: echo "Hello world triggerpush! "
