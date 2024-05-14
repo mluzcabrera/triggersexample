@@ -1,4 +1,4 @@
-name: Use Hello World action
+name: triggerlist
 
 on: [workflow_dispatch]
 
