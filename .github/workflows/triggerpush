@@ -1,0 +1,11 @@
+name: triggerpush
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Print output
+      run: echo "Hello world triggerpush!"
