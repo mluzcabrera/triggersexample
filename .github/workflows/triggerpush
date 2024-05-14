@@ -1,6 +1,7 @@
 name: triggerpush
 
-on: push
+on: 
+  push
 
 jobs:
   build:
