@@ -1,4 +1,4 @@
-name: Use Hello World action
+name: triggerbrackets
 
 on: 
   workflow_dispatch: {}
