@@ -1,4 +1,4 @@
-name: Use Hello World action
+name: triggercolon
 
 on: 
   workflow_dispatch:
